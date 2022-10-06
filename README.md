@@ -1,0 +1,2 @@
+# project-3
+I am a student trying to finish a project. I have been working at this thing for hours, and I have been slowly piecing away the bugs at this thing. I am still very new and barely know what I am doing. I would appreciate some help trying to get the l integer to stay the same after you input the number. I am also having issues getting paidBack and intrestPaid to be positive numbers instead of negative. Does anyone know any way to fix this? If so please let me know how so I can learn and not make the same mistake in the future.
